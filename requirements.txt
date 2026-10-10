@@ -1,0 +1,11 @@
+pvporcupine
+anthropic
+pyttsx3
+pyaudio
+pystray
+pillow
+ollama
+SpeechRecognition
+pocketsphinx
+keyboard
+screen_brightness_control

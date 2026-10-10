@@ -1,0 +1,9 @@
+.venv/
+.build-venv/
+__pycache__/
+*.pyc
+config/settings.json
+config/history.jsonl
+*.log
+dist/
+build/
